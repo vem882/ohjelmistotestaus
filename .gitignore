@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules/
 coverage/
-.env
+# .env  tehvätän palautukseen tarvitaan envit mukaan.
 dist/
 server/node_modules
 
